@@ -4,7 +4,7 @@
 ## I'm a Software Engineer, Gamer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 💬 let's have discussion on DS/Algo 👐
+- 💬 Let's have a discussion on DS/Algo 👐
 - ☕ Facinated about how a system really works 😲
 - 📄 Why 0! equals 1? 😕
 - ⚡ Fun fact: I ❤️ 🐶
