@@ -22,7 +22,7 @@
 
 ---
 
-<details>
+
 <!--START_SECTION:activity-
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -34,12 +34,12 @@
 5. 💪 Opened PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 <!--END_SECTION:activity-->
 
-</details>
+
 
 <details>
   <summary>:zap: Weekly Activity</summary>
-
-  <summary> This week I solved 13 new leetcode questions.</summary>
+    <br/>
+  <summary>     This week I solved 13 new leetcode questions.</summary>
 
 </details>
 
