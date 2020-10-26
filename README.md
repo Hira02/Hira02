@@ -1,11 +1,11 @@
-### Hi there, this is Hira Saha 👋
+### Hi there 👋
 
 
 ## I'm a Software Engineer, Gamer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 💬 Ask me anything on DS/Algo
-- ☕ Facinated about how a system really works.
+- 💬 let's have discussion on DS/Algo 👐
+- ☕ Facinated about how a system really works 😲
 - 📄 Why 0! equals 1? 😕
 - ⚡ Fun fact: I ❤️ 🐶
 
@@ -23,6 +23,7 @@
 ---
 
 <details>
+<!--START_SECTION:activity-
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-
@@ -36,9 +37,9 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: Weekly Activity</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Hira02&show_icons=true&hide_border=true" />
+  <summary> This week I solved 13 new leetcode questions.</summary>
 
 </details>
 
