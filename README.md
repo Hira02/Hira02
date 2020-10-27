@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 💬 Let's have a discussion on DS/Algo 👐
-- ☕ Facinated about how a system really works 😲
+- ☕ Fascinated about how a system really works 😲
 - 📄 Why 0! equals 1? 😕
 - ⚡ Fun fact: I ❤️ 🐶
 
