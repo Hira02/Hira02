@@ -26,7 +26,7 @@
 <details>
   <summary>:zap: Weekly Activity</summary>
     <br/>
-  <summary>     This week I solved 13 new leetcode questions.</summary>
+  <summary>     I am learning DBMS.</summary>
 
 </details>
 
