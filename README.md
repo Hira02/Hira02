@@ -26,7 +26,7 @@
 <details>
   <summary>:zap: Weekly Activity</summary>
     <br/>
-  <summary>     I am learning Data base design.</summary>
+  <summary>     I am learning Go Lang.</summary>
 
 </details>
 
